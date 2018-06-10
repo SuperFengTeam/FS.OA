@@ -1,0 +1,16 @@
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\FS.OA.IBusinessLogicLaywer.dll
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\FS.OA.IBusinessLogicLaywer.pdb
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\Autofac.dll
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\Autofac.xml
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\IBusinessLogicLaywer.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\IBusinessLogicLaywer.csproj.CopyComplete
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\FS.OA.IBusinessLogicLaywer.dll
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\FS.OA.IBusinessLogicLaywer.pdb
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\FS.OA.IBusinessLogicLaywer.dll
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\FS.OA.IBusinessLogicLaywer.pdb
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\Autofac.dll
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\bin\Debug\Autofac.xml
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\IBusinessLogicLaywer.csproj.CoreCompileInputs.cache
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\IBusinessLogicLaywer.csproj.CopyComplete
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\FS.OA.IBusinessLogicLaywer.dll
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IBusinessLogicLaywer\obj\Debug\FS.OA.IBusinessLogicLaywer.pdb

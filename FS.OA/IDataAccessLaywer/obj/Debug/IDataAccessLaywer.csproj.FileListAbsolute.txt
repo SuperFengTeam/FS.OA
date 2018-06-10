@@ -1,0 +1,16 @@
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\FS.OA.IDataAccessLaywer.dll
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\FS.OA.IDataAccessLaywer.pdb
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\Autofac.dll
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\Autofac.xml
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\IDataAccessLaywer.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\IDataAccessLaywer.csproj.CopyComplete
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\FS.OA.IDataAccessLaywer.dll
+C:\Users\IBM_ADMIN\source\repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\FS.OA.IDataAccessLaywer.pdb
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\FS.OA.IDataAccessLaywer.dll
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\FS.OA.IDataAccessLaywer.pdb
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\Autofac.dll
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\bin\Debug\Autofac.xml
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\IDataAccessLaywer.csproj.CoreCompileInputs.cache
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\IDataAccessLaywer.csproj.CopyComplete
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\FS.OA.IDataAccessLaywer.dll
+C:\Users\RenFeng\Source\Repos\FS_OA\FS.OA\IDataAccessLaywer\obj\Debug\FS.OA.IDataAccessLaywer.pdb
